@@ -13,13 +13,13 @@ f = 100.0
 print(type(f))
 
 # Zadanie
-# Oblicz pole kwadratu o boku długości 5?
+# 1) Oblicz pole kwadratu o boku długości 5?
 
 a = 5
 b = (a) * (a) # b = 25
 
 
-# Oblicz obwód koła o promieniu 7
+# 2) Oblicz obwód koła o promieniu 7
 
 a = 3.14
 b = 7
